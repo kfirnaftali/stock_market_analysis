@@ -1,0 +1,1 @@
+{"transaction_id":"{{uuid()}}","transaction_timestamp":{{timestamp("01-02-2024 00:00:00","25-02-2024 00:00:00")}},"ticker_name":"GOOG","open":151.24,"high":154.38,"low":148.11,"current_transaction_rate":{{float(145,160,"%.2f")}},"close":{{integer(150,153)}},"volume":{{integer(100,500)}}}

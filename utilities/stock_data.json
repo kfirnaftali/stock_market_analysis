@@ -1,0 +1,4 @@
+//incease
+{"transaction_id":"9e770d21-b960-411a-aa44-de4718a9e981","transaction_timestamp":1708675443835,"ticker_name":"GOOG","open":151.24,"high":154.38,"low":148.11,"current_transaction_rate":175.87,"close":152,"volume":7000000}
+//decrease:
+{"transaction_id":"9e770d21-b960-411a-aa44-de4718a9e981","transaction_timestamp":1708675443835,"ticker_name":"GOOG","open":151.24,"high":154.38,"low":148.11,"current_transaction_rate":-480.87,"close":152,"volume":7000000}

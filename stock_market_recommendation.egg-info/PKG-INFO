@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: stock-market-recommendation
+Version: 1.0
+Summary: generating stock market buy,sell,hold recommendations
+Author: Kfir Naftali
+Author-email: kfirnaftali@google.com
+Requires-Python: ==3.9.17
+Requires-Dist: google-cloud-discoveryengine==0.11.6
+Requires-Dist: google-api-core==2.11.0
+Requires-Dist: google-cloud-aiplatform==1.38.0
+Requires-Dist: google-auth==2.23.0
+Requires-Dist: transformers==4.33.2
